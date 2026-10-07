@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="350" viewBox="0 0 1020 350" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b4a8c"/><stop offset="1" stop-color="#d98a6c"/></linearGradient>
+</defs>
+<rect width="1020" height="350" rx="18" fill="#14151f"/>
+<rect x="20" y="14" width="230" height="280" rx="14" fill="#232538" stroke="#33364f"/>
+<clipPath id="c026"><rect x="35.0" y="26" width="200" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c026)"><rect x="35.0" y="26" width="200" height="120" fill="#1b1c2b"/>
+<rect x="35.0" y="26" width="200" height="120" fill="url(#sky)"/>
+<path d="M35.0 119.60000000000001 Q95.0 92.0 145.0 116.0 T235.0 107.60000000000001 V146 H35.0 Z" fill="#2a2f4f"/>
+<circle cx="159.0" cy="71.6" r="13.2" fill="#f2d7c9"/>
+<path d="M135.0 146 Q137.4 92.0 159.0 88.4 Q180.6 92.0 183.0 146 Z" fill="#e2566f"/>
+</g>
+<clipPath id="c0160"><rect x="55.0" y="160" width="160" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c0160)"><rect x="55.0" y="160" width="160" height="120" fill="#1b1c2b"/>
+<rect x="63.0" y="173.625" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="187.375" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="201.125" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="214.875" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="228.625" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="242.375" width="144.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="63.0" y="256.125" width="88.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.95"/>
+</g>
+<text x="135" y="322" text-anchor="middle" fill="#f1f1f6" font-size="15" font-weight="600">Classic</text>
+<text x="135" y="340" text-anchor="middle" fill="#8e92b0" font-size="12">picture top · text bottom</text>
+<rect x="270" y="14" width="230" height="280" rx="14" fill="#232538" stroke="#33364f"/>
+<clipPath id="c126"><rect x="285.0" y="26" width="200" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c126)"><rect x="285.0" y="26" width="200" height="120" fill="#1b1c2b"/>
+<rect x="293.0" y="39.625" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="53.375" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="67.125" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="80.875" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="94.625" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="108.375" width="184.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.45"/>
+<rect x="293.0" y="122.125" width="114.0" height="4.8125" rx="2" fill="#c9cce0" opacity="0.95"/>
+</g>
+<clipPath id="c1160"><rect x="305.0" y="160" width="160" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c1160)"><rect x="305.0" y="160" width="160" height="120" fill="#1b1c2b"/>
+<rect x="305.0" y="160" width="160" height="120" fill="url(#sky)"/>
+<path d="M305.0 253.60000000000002 Q353.0 226.0 393.0 250.0 T465.0 241.60000000000002 V280 H305.0 Z" fill="#2a2f4f"/>
+<circle cx="404.2" cy="205.6" r="13.2" fill="#f2d7c9"/>
+<path d="M380.2 280 Q382.59999999999997 226.0 404.2 222.4 Q425.8 226.0 428.2 280 Z" fill="#e2566f"/>
+</g>
+<text x="385" y="322" text-anchor="middle" fill="#f1f1f6" font-size="15" font-weight="600">Swapped</text>
+<text x="385" y="340" text-anchor="middle" fill="#8e92b0" font-size="12">text top · picture bottom</text>
+<rect x="520" y="14" width="230" height="280" rx="14" fill="#232538" stroke="#33364f"/>
+<clipPath id="c226"><rect x="535.0" y="26" width="200" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c226)"><rect x="535.0" y="26" width="200" height="120" fill="#1b1c2b"/>
+<rect x="535.0" y="26" width="200" height="120" fill="url(#sky)"/>
+<path d="M535.0 119.60000000000001 Q595.0 92.0 645.0 116.0 T735.0 107.60000000000001 V146 H535.0 Z" fill="#2a2f4f"/>
+<circle cx="659.0" cy="71.6" r="13.2" fill="#f2d7c9"/>
+<path d="M635.0 146 Q637.4 92.0 659.0 88.4 Q680.6 92.0 683.0 146 Z" fill="#e2566f"/>
+<rect x="540.0" y="100.4" width="190" height="40.800000000000004" rx="4" fill="rgba(8,8,18,0.78)"/>
+<rect x="548.0" y="107.54" width="174.0" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.45"/>
+<rect x="548.0" y="117.74000000000001" width="174.0" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.45"/>
+<rect x="548.0" y="127.94000000000001" width="107.5" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.95"/>
+</g>
+<clipPath id="c2160"><rect x="555.0" y="160" width="160" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c2160)"><rect x="555.0" y="160" width="160" height="120" fill="#1b1c2b"/>
+<rect x="563.0" y="173.625" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="187.375" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="201.125" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="214.875" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="228.625" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="242.375" width="144.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="563.0" y="256.125" width="88.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.95"/>
+</g>
+<text x="635" y="322" text-anchor="middle" fill="#f1f1f6" font-size="15" font-weight="600">One screen (top)</text>
+<text x="635" y="340" text-anchor="middle" fill="#8e92b0" font-size="12">ADV box · backlog below</text>
+<rect x="770" y="14" width="230" height="280" rx="14" fill="#232538" stroke="#33364f"/>
+<clipPath id="c326"><rect x="785.0" y="26" width="200" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c326)"><rect x="785.0" y="26" width="200" height="120" fill="#1b1c2b"/>
+<rect x="793.0" y="39.625" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="53.375" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="67.125" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="80.875" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="94.625" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="108.375" width="184.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.45"/>
+<rect x="793.0" y="122.125" width="114.0" height="4.8125" rx="2" fill="#6f7390" opacity="0.95"/>
+</g>
+<clipPath id="c3160"><rect x="805.0" y="160" width="160" height="120" rx="3"/></clipPath>
+<g clip-path="url(#c3160)"><rect x="805.0" y="160" width="160" height="120" fill="#1b1c2b"/>
+<rect x="805.0" y="160" width="160" height="120" fill="url(#sky)"/>
+<path d="M805.0 253.60000000000002 Q853.0 226.0 893.0 250.0 T965.0 241.60000000000002 V280 H805.0 Z" fill="#2a2f4f"/>
+<circle cx="904.2" cy="205.6" r="13.2" fill="#f2d7c9"/>
+<path d="M880.2 280 Q882.6 226.0 904.2 222.4 Q925.8000000000001 226.0 928.2 280 Z" fill="#e2566f"/>
+<rect x="810.0" y="234.4" width="150" height="40.800000000000004" rx="4" fill="rgba(8,8,18,0.78)"/>
+<rect x="818.0" y="241.54000000000002" width="134.0" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.45"/>
+<rect x="818.0" y="251.74" width="134.0" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.45"/>
+<rect x="818.0" y="261.94" width="81.5" height="3.5700000000000003" rx="2" fill="#ffffff" opacity="0.95"/>
+</g>
+<text x="885" y="322" text-anchor="middle" fill="#f1f1f6" font-size="15" font-weight="600">One screen (bottom)</text>
+<text x="885" y="340" text-anchor="middle" fill="#8e92b0" font-size="12">ADV box · backlog above</text>
+</svg>

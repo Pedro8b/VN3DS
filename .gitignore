@@ -1,0 +1,16 @@
+# build output
+build/
+*.3dsx
+*.smdh
+*.elf
+*.map
+*.cia
+cia/banner.bnr
+cia/icon.icn
+
+# host tests
+tools/hosttest/obj/
+tools/hosttest/hosttest
+
+# local test data
+_testdata/
